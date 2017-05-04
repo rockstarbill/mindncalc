@@ -1,0 +1,2 @@
+# mindncalc
+# mindncalc
